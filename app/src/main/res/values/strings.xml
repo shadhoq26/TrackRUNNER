@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TrackRUNNER</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_map_api">AIzaSyAgLlc-gM_5-yAnZQcKULtE7yPEhEpx0OI</string>
+    <string name= "weather_api">f8db6600cc44c1efa7804b4b3287cce8</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Bengali</item>
+        <item>German</item>
+        <item>Mandarin</item>
+    </string-array>
+
+    <string-array name="measurement">
+        <item>Imperial</item>
+        <item>Metric</item>
+    </string-array>
+</resources>
